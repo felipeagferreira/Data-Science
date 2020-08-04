@@ -3,7 +3,7 @@ Repository containing portfolio of data science projects completed for academic,
 
 Tools
   - **Python**: NumPy, Pandas, Seaborn, Matplotlib
-  - **Machine Learning**: scikit-learn, NLTK 
+  - **Machine Learning**: scikit-learn, NLTK, GridSearchCV, Pipelines 
 
 ## Contents
 - ## Machine Learning:
