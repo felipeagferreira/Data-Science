@@ -9,7 +9,7 @@ Tools
 - ## Machine Learning:
     - [K-Nearest Neighbors](https://github.com/felipeagferreira/Data-Science/blob/master/KNN%20e%20Como%20Obter%20o%20melhor%20N%C3%BAmero%20K%20de%20Vizinhos%20Mais%20Pr%C3%B3ximos.ipynb): You've been given a classified data set from a company! They've hidden the feature column names but have given you the data and the target classes.
 We'll try to use KNN to create a model that directly predicts a class for a new data point based off of the features.
-     - [Machine Learning Regression - Financial Market](https://github.com/melvfnz/data_science_portfolio/blob/master/Regression%20-%20Machine%20Learning.ipynb): Importing from quandl (financial and economical data) to create a simple regression.
+     - [Machine Learning Regression - Financial Market](https://github.com/felipeagferreira/Data-Science/blob/master/Machine%20Learning/Linear%20Regressions/Housing%20Prices.ipynb): Create a model that allows us to put some characteristics of a house and return an estimate of how much the house would sell..
     
 - ## Data Analysis and Visualization (Python Programming)
     - [Cryptocurrency Market Analysis](https://github.com/melvfernandez/data_science_portfolio/blob/master/Cryptocurrency%20Market%20Analysis.ipynb): Based off my stock market analysis of tech stocks. Change in price over time, daily returns, and behaviour prediction.
