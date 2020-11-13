@@ -1,0 +1,7 @@
+The file jewelry_customers.csv contains the following features:
+
+Age: The age, in years of the customer
+Income: The annual income, in CAD, of the customer
+SpendingScore: A normalized metric that summarizes how much money the customer has spent at your store
+Savings: The amount of money, in CAD, the customer has in their personal savings account.
+
